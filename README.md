@@ -1,5 +1,7 @@
 # Java Logger Project
 
+![SecuriThings UML](SecuriThingsUML.png)
+
 ## Overview
 This project is a logging framework written in Java. It allows applications to log messages at different levels (`ERROR`, `INFO`, `DEBUG`, although other levels can be easily added) and supports multiple log outputs:
 
